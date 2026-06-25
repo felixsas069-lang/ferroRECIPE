@@ -1,0 +1,10 @@
+{
+  "appId": "com.ferroustechz.ferrorecipe",
+  "appName": "ferroRECIPE",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

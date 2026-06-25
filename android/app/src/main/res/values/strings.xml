@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ferroRECIPE</string>
+    <string name="title_activity_main">ferroRECIPE</string>
+    <string name="package_name">com.ferroustechz.ferrorecipe</string>
+    <string name="custom_url_scheme">com.ferroustechz.ferrorecipe</string>
+</resources>
